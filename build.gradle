@@ -11,7 +11,7 @@ allprojects {
         jcenter()
     }
     configurations {
-        all*.exclude module: 'commons-logging'
+        all*.exclude group: 'commons-logging'
     }
 }
 

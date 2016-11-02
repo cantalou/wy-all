@@ -6,6 +6,5 @@ apply plugin: 'war'
 apply from:'../dependency/web.gradle'
 
 dependencies {
-
-
+    compile project(':domain')
 }
