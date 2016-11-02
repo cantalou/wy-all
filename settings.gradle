@@ -1,0 +1,4 @@
+rootProject.name = 'wy-all'
+include 'web-system'
+include 'web-api'
+

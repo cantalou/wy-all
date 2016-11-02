@@ -1,0 +1,18 @@
+group 'com.cantalou'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+allprojects {
+
+    [compileJava, compileTestJava, javadoc]*.options*.encoding = 'UTF-8'
+    sourceCompatibility = 1.7
+    repositories {
+        jcenter()
+    }
+    configurations {
+        all*.exclude module: 'commons-logging'
+    }
+}
+
+

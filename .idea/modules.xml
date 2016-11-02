@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-api/web-api.iml" filepath="$PROJECT_DIR$/.idea/modules/web-api/web-api.iml" group="web-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-api/web-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-api/web-api_main.iml" group="web-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-api/web-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-api/web-api_test.iml" group="web-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-system/web-system.iml" filepath="$PROJECT_DIR$/.idea/modules/web-system/web-system.iml" group="web-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-system/web-system_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-system/web-system_main.iml" group="web-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-system/web-system_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-system/web-system_test.iml" group="web-system" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wy-all.iml" filepath="$PROJECT_DIR$/.idea/modules/wy-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wy-all_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wy-all_main.iml" group="wy-all" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wy-all_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wy-all_test.iml" group="wy-all" />
+    </modules>
+  </component>
+</project>
